@@ -1,43 +1,40 @@
-# 👋 Hi, I'm Eisensenpou
+# 👋 Hi, I'm Sinan (aka Eisensenpou)
 
-🎓 I'm a **Computer Science student** passionate about helping people solve their problems — no matter the challenge.  
-💡 I believe in using **technology and computer science** to make life easier, better, and more accessible for everyone.  
-
----
-
-### 🧠 About Me
-- 🌱 Currently learning and growing in **Python**, **Java**, and **C++**
-- 💬 Always eager to collaborate and work on meaningful projects
-- 💻 Focused on applying computer science to **real-world problem solving**
-- ⚡ Fun fact: I love learning new tools that help me build things faster and better
+🎓 I'm a Computer Science student passionate about using technology to help people solve real-world problems.  
+💡 I believe in creating tools that make life easier, better, and more accessible for everyone.
 
 ---
 
-### 🚀 Skills
-- **Languages:** Python, Java, C++  
-- **Tools & Technologies:** Git, VS Code, IntelliJ
-- **Interests:** Software Development, Problem Solving, Helping People
+## 🧠 About Me
+🌱 Currently learning and growing with **Python**, **Java**, and **C++**  
+💬 I enjoy collaborating on meaningful, impactful projects  
+💻 My focus is on **problem-solving** and building things that matter  
+⚡ Fun fact: I love experimenting with new tools that make me build faster and smarter
 
 ---
 
-### 📂 Featured Projects
-- sudoku generator
+## 🚀 Skills
+**Languages:** Python • Java • C++  
+**Tools & Technologies:** Git • VS Code • IntelliJ  
+**Interests:** Software Development • Algorithms • Helping People Through Tech  
 
 ---
 
-### 📫 Connect with Me
-- **GitHub:** [@eisensenpou](https://github.com/eisensenpou)
-- 
+## 📂 Featured Projects
+- **[Sudoku Generator](https://github.com/eisensenpou/sudoku-generator)** — A program that generates valid Sudoku puzzles using backtracking algorithms and efficient constraint checks.  
+- *(Add another if you can — even a small or in-progress project!)*
 
 ---
 
-### ⚙️ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eisensenpou&show_icons=true&theme=github_dark" alt="Eisensenpou's GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eisensenpou&theme=github-dark&hide_border=true" width="45%" />
-</p>
+## 📫 Connect with Me
+🐙 **GitHub:** [@eisensenpou](https://github.com/eisensenpou)
 
 ---
 
-> “The best way to predict the future is to create it.” — Alan Kay  
-> Let’s build something that makes a difference.
+## ⚙️ GitHub Stats
+![Eisensenpou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eisensenpou&show_icons=true&theme=radical)
+
+---
+
+> “The best way to predict the future is to create it.” — *Alan Kay*  
+Let’s build something that makes a difference.

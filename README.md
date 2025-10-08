@@ -33,6 +33,10 @@
 
 ## ⚙️ GitHub Stats
 ![Eisensenpou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eisensenpou&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eisensenpou&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=eisensenpou&theme=radical)
+
+
 
 ---
 

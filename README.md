@@ -15,22 +15,19 @@
 
 ### 🚀 Skills
 - **Languages:** Python, Java, C++  
-- **Tools & Technologies:** Git, VS Code, Linux (you can add more here later)  
+- **Tools & Technologies:** Git, VS Code, IntelliJ
 - **Interests:** Software Development, Problem Solving, Helping People
 
 ---
 
 ### 📂 Featured Projects
-*(Coming soon — stay tuned!)*  
-<!-- You can add your projects later like this:
-- [Project Name](https://github.com/eisensenpou/project-name) — Short description.
--->
+- sudoku generator
 
 ---
 
 ### 📫 Connect with Me
 - **GitHub:** [@eisensenpou](https://github.com/eisensenpou)
-- *(Optional: add your LinkedIn or email here)*
+- 
 
 ---
 

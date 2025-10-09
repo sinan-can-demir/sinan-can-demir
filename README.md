@@ -22,7 +22,6 @@
 
 ## 📂 Featured Projects
 - **[Sudoku Generator](https://github.com/eisensenpou/sudoku-generator)** — A program that generates valid Sudoku puzzles using backtracking algorithms and efficient constraint checks.  
-- *(Add another if you can — even a small or in-progress project!)*
 
 ---
 

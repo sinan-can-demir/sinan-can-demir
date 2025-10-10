@@ -21,7 +21,8 @@
 ---
 
 ## 📂 Featured Projects
-- **[Sudoku Generator](https://github.com/eisensenpou/sudoku-generator)** — A program that generates valid Sudoku puzzles using backtracking algorithms and efficient constraint checks.  
+- **[Sudoku Generator](https://github.com/eisensenpou/sudoku-generator)** — A program that generates valid Sudoku puzzles using backtracking algorithms and efficient constraint checks.
+- **[Star Lifetime]{https://github.com/eisensenpou/star-lifetime)** - A program that uses math and physics to calculate the remaining lifetime of stars. This might be used as both application and package.
 
 ---
 

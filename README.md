@@ -23,6 +23,7 @@
 ## 📂 Featured Projects
 - **[Sudoku Generator](https://github.com/eisensenpou/sudoku-generator)** — A program that generates valid Sudoku puzzles using backtracking algorithms and efficient constraint checks.
 - **[Star Lifetime](https://github.com/eisensenpou/star-lifetime)** - A program that uses math and physics to calculate the remaining lifetime of stars. This might be used as both application and package.
+- **[Sun--Earth--Moon Orbital Dynamics Simulator](https://github.com/eisensenpou/orbits-of-earth-and-moon)** - This project models the three-body gravitational system of the Sun, Earth, and Moon using Newtonian mechanics and a custom-built RK4 (Runge--Kutta 4) integrator written in C++17. The output is visualized in Python using interactive 3D plots and animations.
 
 ---
 

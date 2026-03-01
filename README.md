@@ -1,46 +1,85 @@
-# 👋 Hi, I'm Sinan (aka Eisensenpou)
+# 👋 Hi, I'm Sinan Demir
 
-🎓 I'm a Computer Science student passionate about using technology to help people solve real-world problems.  
-💡 I believe in creating tools that make life easier, better, and more accessible for everyone.
+🎓 Computer Science student at The University of Texas at Dallas  
+💻 Interested in Software Engineering, Systems Programming, and Scientific Computing  
+📍 Seeking Software Engineering / Data Engineering Internship (Austin – Summer 2026)
 
 ---
 
 ## 🧠 About Me
-🌱 Currently learning and growing with **Python**, **Java**, and **C++**  
-💬 I enjoy collaborating on meaningful, impactful projects  
-💻 My focus is on **problem-solving** and building things that matter  
-⚡ Fun fact: I love experimenting with new tools that make me build faster and smarter
+
+I enjoy building technically rigorous systems that combine mathematics, performance, and clean architecture.  
+
+My recent work focuses on:
+- Numerical simulation and scientific computing in C++
+- Algorithm design and object-oriented programming in Java
+- Writing modular, maintainable, production-style code with CMake and CI
+
+I’m especially interested in backend systems, high-performance computing, and data-driven engineering problems.
 
 ---
 
-## 🚀 Skills
-**Languages:** Python • Java • C++  
-**Tools & Technologies:** Git • VS Code • IntelliJ  
-**Interests:** Software Development • Algorithms • Helping People Through Tech  
+## 🛠 Technical Skills
+
+**Languages:**  
+C++ (C++17) • Java • Python • SQL  
+
+**Core Concepts:**  
+Data Structures • Algorithms • Numerical Methods • Object-Oriented Design • System Modeling  
+
+**Tools & Technologies:**  
+Git • CMake • Maven • Linux • VS Code • IntelliJ • GitHub Actions  
 
 ---
 
-## 📂 Featured Projects
-- **[Sudoku Generator](https://github.com/eisensenpou/sudoku-generator)** — A program that generates valid Sudoku puzzles using backtracking algorithms and efficient constraint checks.
-- **[Star Lifetime](https://github.com/eisensenpou/star-lifetime)** - A program that uses math and physics to calculate the remaining lifetime of stars. This might be used as both application and package.
-- **[Sun--Earth--Moon Orbital Dynamics Simulator](https://github.com/eisensenpou/orbits-of-earth-and-moon)** - This project models the three-body gravitational system of the Sun, Earth, and Moon using Newtonian mechanics and a custom-built RK4 (Runge--Kutta 4) integrator written in C++17. The output is visualized in Python using interactive 3D plots and animations.
+## 🚀 Engineering Projects
+
+### 🛰 Orbital Mechanics Simulation Engine (C++)
+Three-body gravitational system (Sun–Earth–Moon) implemented using Newtonian mechanics and a custom RK4 integrator.  
+
+- Implemented numerical integration (Runge–Kutta 4) for solving ODE systems  
+- Designed modular simulation architecture in C++17  
+- Integrated CMake build system and CI pipeline  
+- Visualized results using Python 3D interactive plots  
+
+🔗 https://github.com/eisensenpou/orbits-of-earth-and-moon
 
 ---
 
-## 📫 Connect with Me
-🐙 **GitHub:** [@eisensenpou](https://github.com/eisensenpou)
+### ⭐ Stellar Lifetime Modeling Library (C++)
+Scientific computing project modeling stellar evolution using astrophysical mass–luminosity relationships.  
+
+- Implemented reusable numerical computation modules  
+- Structured as modular, maintainable C++ library  
+- Designed for expansion into broader scientific simulations  
+
+🔗 https://github.com/eisensenpou/star-lifetime
 
 ---
 
-## ⚙️ GitHub Stats
-![Eisensenpou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eisensenpou&show_icons=true&theme=radical)
+### 🧩 Sudoku Generator & Solver (Java)
+Algorithmic puzzle generator using backtracking and constraint validation.  
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eisensenpou&hide=jupyter%20notebook)
+- Implemented constraint-based solving logic  
+- Structured as reusable package using Maven  
+- Applied clean OOP design principles  
 
-
+🔗 [https://github.com/eisensenpou/sudoku-generator](https://github.com/eisensenpou/sudoku-generator-package)
 
 ---
 
-> “The best way to predict the future is to create it.” — *Alan Kay*  
-Let’s build something that makes a difference.
+## 📫 Connect
+
+GitHub: https://github.com/eisensenpou  
+LinkedIn: https://www.linkedin.com/in/sinan-can-demir  
+Email: s.c.demir36@gmail.com  
+
+---
+
+## 📊 GitHub Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eisensenpou&theme=github_dark)
+
+---
+
+> “The best way to predict the future is to create it.” — Alan Kay

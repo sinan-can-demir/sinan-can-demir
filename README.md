@@ -31,7 +31,7 @@ Data Structures • Algorithms • Numerical Methods • Object-Oriented Design 
 **Tools & Technologies:**  
 Git • CMake • Maven • Linux • VS Code • IntelliJ • GitHub Actions • Docker • Makefile
 
-**Libraries & Frameworks**
+**Libraries & Frameworks:**  
 FastAPI • pytest
 
 ---

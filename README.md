@@ -52,7 +52,7 @@ Backend system for inventory tracking using an event-driven architecture with st
 ---
 
 ### 🛰 Orbital Mechanics Simulation Engine (C++)
-Three-body gravitational system (Sun–Earth–Moon) implemented using Newtonian mechanics and a custom RK4 integrator.  
+N-body gravitational system implemented using Newtonian mechanics and a custom RK4 integrator.  
 
 - Implemented numerical integration (Runge–Kutta 4) for solving ODE systems  
 - Designed modular simulation architecture in C++17  

@@ -59,7 +59,7 @@ N-body gravitational system implemented using Newtonian mechanics and a custom R
 - Integrated CMake build system and CI pipeline  
 - Visualized results using Python 3D interactive plots  
 
-🔗 https://github.com/sinan-can-demir/orbitak-mechanics-engine
+🔗 https://github.com/sinan-can-demir/orbital-mechanics-engine
 
 ---
 
